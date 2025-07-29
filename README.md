@@ -13,11 +13,6 @@
 - [🔢 Logical Thinking and Algorithms](https://platzi.com/p/OrlyLearn/curso/2793-course/diploma/detalle/)
 - [🌍 Online English Learning Strategies](https://platzi.com/p/OrlyLearn/curso/2633-course/diploma/detalle/)
 
-📛 Platzi Badges:
-![Fundamentals of Computer Science](https://static.platzi.com/media/achievements/Badge-InformaticaFundamentos.png)
-![Logical Thinking and Algorithms](https://static.platzi.com/media/achievements/badge-logica-programacion.png)
-![English Strategies](https://static.platzi.com/media/achievements/Badge-EnglishStrategies.png)
-
 ---
 
 ## 🤖 Highlight Project: Kookiee
