@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Orly
 
-🎓 I'm a **Systems Engineering student (5th semester)** with a clear vision: becoming an **independent developer**. Passionate about web development, automation, and cybersecurity, I aim to build scalable, useful, and well-documented tools.
+🎓 I'm a **Systems Engineering student (6th semester)** with a clear vision: becoming an **independent developer**. Passionate about web development, automation, and cybersecurity, I aim to build scalable, useful, and well-documented tools.
 
 ---
 
