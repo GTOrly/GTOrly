@@ -42,8 +42,4 @@ I'm driven by self-learning, continuous improvement, and sharing knowledge. I be
 
 ---
 
-## 🌐 Let's Connect
-
-📸 [Instagram - @elorly_ig](https://www.instagram.com/elorly_ig?igsh=MXI2N3FvNTJremtmOQ)
-
 💼 Always open to collaboration, building with others, and turning big ideas into real-world projects. Kookiee is just the beginning.
